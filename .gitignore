@@ -1,0 +1,16 @@
+# 安装包通过Release附件发布，仓库中只保留公开资料。
+*.apk
+*.aab
+*.zip
+# 防止误放签名、签发私钥或本地开发资料。
+*.jks
+*.keystore
+*.pem
+*.code.txt
+.license-private/
+android/
+app-prototype/
+backups/
+tools/
+node_modules/
+.android-tools/

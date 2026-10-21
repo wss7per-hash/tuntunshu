@@ -1,0 +1,4 @@
+Offline OCR engine: Tesseract.js 7.0.0
+https://github.com/naptha/tesseract.js
+Language models: https://github.com/naptha/tessdata (chi_sim, eng, 4.0.0_best_int)
+Models derive from Tesseract tessdata, Apache-2.0. Runtime remains offline.
